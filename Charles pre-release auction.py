@@ -277,3 +277,5 @@ else:
         print('\n there is only', salescounter, 'item that has been sold and', len(auctionlist) - salescounter, 'item that has not been sold as it did not reach its reserve price')
 print('\n total fee is: $', totalfee) #prints total fee
 print('_'*40)
+print('hello acarlos')
+#asdfadsfs
